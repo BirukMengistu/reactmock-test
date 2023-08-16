@@ -1,10 +1,10 @@
-
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
   return (
-    <div className="app">
-      <h5>React Test tutorial</h5>
-      
+    <div className="App">
+     <h5>React jest test mock</h5>
     </div>
   );
 }
