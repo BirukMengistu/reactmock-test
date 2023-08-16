@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  jesttest:
+    image: jesttest
+    build:
+      context: .
+      dockerfile: ./Dockerfile
