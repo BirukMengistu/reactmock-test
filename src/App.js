@@ -1,6 +1,6 @@
+import React from "react";
 
-
-function App() {
+const App= ()=> {
   return (
     <div className="App">
      <h5>React jest test mock</h5>
