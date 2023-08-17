@@ -3,7 +3,7 @@
                          .reverse().join('').replaceAll(',','')
    let strInput = str.toLowerCase()
    
- return str === strReverse            
+ return strInput === strReverse            
 }
 
  const stringIncrement=(str)=>{
